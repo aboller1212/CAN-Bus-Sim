@@ -1,4 +1,4 @@
-# CANaryNode Sim
+# CANaryNode Sim: CAN bus network simulator
 
 A software CAN bus network that runs entirely on a laptop, no hardware required. It's a set of C programs that pretend to be electronic control units talking over a CAN bus, plus Python tools that sniff and inject traffic the way you would with a real bus analyzer.
 
